@@ -2,7 +2,7 @@
 
 This is a dataset of 681 gamma-ray well logs from the Permian Basin, West Texas that can be used to test automated log correlation approcahes. The data was derived from the S&P Global Permian Basin Digital Logs Subscription and is being shared with permission. Each CSV file corresponds with one log, with depth values given in meters below sea level (negative values mena that it's above sea level). There is also a CSV file ('example_dataset_coordinates.csv') that contains the UTM coordinates of the surface location of each well.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
